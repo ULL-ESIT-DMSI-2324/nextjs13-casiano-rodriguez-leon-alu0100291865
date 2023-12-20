@@ -10,7 +10,7 @@ export default async function DashboardLayout({ children }) {
 
   return (
     <>
-      <Navbar user={data.session.user} />
+      <Navbar user={data?.session?.user} />
       {children}
     </>
   )

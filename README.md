@@ -1,3 +1,5 @@
+# Lesson 24. Signing Up a new User
+
 ## Next.js Master Class
 This repo contains all the course files for the Next.js Master Class on Net Ninja Pro. There is a branch for every lesson. Select the lesson you need from the branch dropdown.
 

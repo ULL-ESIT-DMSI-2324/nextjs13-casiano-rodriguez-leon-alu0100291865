@@ -25,7 +25,7 @@ export default function Signup() {
     if (error) {
       setError(error.message)
     }
-    if (!error) {
+    else {
       router.push('/verify')
     } 
   }
